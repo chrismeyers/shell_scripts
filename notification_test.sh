@@ -3,7 +3,7 @@
 while test $# -gt 0; do
   case "$1" in
     -h|--help)
-      echo "usage: $0 [-h] [-r]\n"
+      echo "usage: $0 [-h] [-r]"
       echo ""
       echo "optional arguments:"
       echo " -h, --help    shows this help message and exit"
